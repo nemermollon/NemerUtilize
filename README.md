@@ -1,0 +1,2 @@
+# NemerUtilize
+Códigos utilitários diversos
